@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 *.pyo
 venv/
-.env
 *.egg-info/
 dist/
 build/
@@ -21,3 +20,4 @@ node_modules/
 # OS
 .DS_Store
 *.swp
+config.bat
