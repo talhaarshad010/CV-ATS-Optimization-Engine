@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/13eb471f47e040f28bfc9c9a7da8b0ad/artifacts
+end_time: 1782557552728
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 13eb471f47e040f28bfc9c9a7da8b0ad
+run_name: bouncy-foal-102
+run_uuid: 13eb471f47e040f28bfc9c9a7da8b0ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557552714
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/89eaaeb51dc64929a1a7ceecf40478a5/artifacts
+end_time: 1782562816085
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 89eaaeb51dc64929a1a7ceecf40478a5
+run_name: funny-hound-629
+run_uuid: 89eaaeb51dc64929a1a7ceecf40478a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782562816071
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

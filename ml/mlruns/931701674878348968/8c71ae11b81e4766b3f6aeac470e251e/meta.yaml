@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/8c71ae11b81e4766b3f6aeac470e251e/artifacts
+end_time: 1782559003962
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 8c71ae11b81e4766b3f6aeac470e251e
+run_name: salty-conch-621
+run_uuid: 8c71ae11b81e4766b3f6aeac470e251e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782559003947
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

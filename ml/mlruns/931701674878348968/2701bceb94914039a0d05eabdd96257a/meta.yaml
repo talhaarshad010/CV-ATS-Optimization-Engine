@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/2701bceb94914039a0d05eabdd96257a/artifacts
+end_time: 1782556880022
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 2701bceb94914039a0d05eabdd96257a
+run_name: smiling-rook-448
+run_uuid: 2701bceb94914039a0d05eabdd96257a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556880010
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

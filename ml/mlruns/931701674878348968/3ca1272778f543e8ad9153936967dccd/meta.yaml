@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/3ca1272778f543e8ad9153936967dccd/artifacts
+end_time: 1782553021431
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 3ca1272778f543e8ad9153936967dccd
+run_name: resilient-croc-705
+run_uuid: 3ca1272778f543e8ad9153936967dccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782553021422
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

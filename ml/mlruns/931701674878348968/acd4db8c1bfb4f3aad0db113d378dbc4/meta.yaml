@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/acd4db8c1bfb4f3aad0db113d378dbc4/artifacts
+end_time: 1782561378737
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: acd4db8c1bfb4f3aad0db113d378dbc4
+run_name: exultant-lark-300
+run_uuid: acd4db8c1bfb4f3aad0db113d378dbc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782561378725
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

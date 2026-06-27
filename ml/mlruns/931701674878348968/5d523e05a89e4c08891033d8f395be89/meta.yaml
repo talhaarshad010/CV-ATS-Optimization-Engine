@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/5d523e05a89e4c08891033d8f395be89/artifacts
+end_time: 1782553466903
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 5d523e05a89e4c08891033d8f395be89
+run_name: indecisive-lark-169
+run_uuid: 5d523e05a89e4c08891033d8f395be89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782553466895
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

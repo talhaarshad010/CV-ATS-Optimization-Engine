@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/6cd805016d5442c5940c31bb93060654/artifacts
+end_time: 1782562868168
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 6cd805016d5442c5940c31bb93060654
+run_name: wistful-cub-146
+run_uuid: 6cd805016d5442c5940c31bb93060654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782562868154
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/283773274435930260/a898705c45db433999f7fb19fbf8201a/artifacts
+end_time: 1782563052490
+entry_point_name: ''
+experiment_id: '283773274435930260'
+lifecycle_stage: active
+run_id: a898705c45db433999f7fb19fbf8201a
+run_name: placid-goose-577
+run_uuid: a898705c45db433999f7fb19fbf8201a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782563052478
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

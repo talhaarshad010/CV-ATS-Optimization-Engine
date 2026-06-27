@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/b49c65dc0d884a55a95047be7c6dc5b1/artifacts
+end_time: 1782556365853
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: b49c65dc0d884a55a95047be7c6dc5b1
+run_name: able-rat-905
+run_uuid: b49c65dc0d884a55a95047be7c6dc5b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556365840
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

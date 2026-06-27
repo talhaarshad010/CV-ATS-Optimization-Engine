@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/4f7138f126474d09b79b976ae33a27de/artifacts
+end_time: 1782561334119
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 4f7138f126474d09b79b976ae33a27de
+run_name: redolent-sponge-175
+run_uuid: 4f7138f126474d09b79b976ae33a27de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782561334106
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

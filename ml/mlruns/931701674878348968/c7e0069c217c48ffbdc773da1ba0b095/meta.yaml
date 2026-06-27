@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/c7e0069c217c48ffbdc773da1ba0b095/artifacts
+end_time: 1782559018127
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: c7e0069c217c48ffbdc773da1ba0b095
+run_name: big-grub-821
+run_uuid: c7e0069c217c48ffbdc773da1ba0b095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782559018116
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

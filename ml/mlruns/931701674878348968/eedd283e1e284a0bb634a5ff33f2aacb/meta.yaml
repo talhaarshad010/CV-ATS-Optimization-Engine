@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/eedd283e1e284a0bb634a5ff33f2aacb/artifacts
+end_time: 1782552709227
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: eedd283e1e284a0bb634a5ff33f2aacb
+run_name: fun-smelt-304
+run_uuid: eedd283e1e284a0bb634a5ff33f2aacb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782552709220
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

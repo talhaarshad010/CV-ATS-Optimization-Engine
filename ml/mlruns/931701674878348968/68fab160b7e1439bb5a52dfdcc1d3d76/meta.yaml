@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/68fab160b7e1439bb5a52dfdcc1d3d76/artifacts
+end_time: 1782553294167
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 68fab160b7e1439bb5a52dfdcc1d3d76
+run_name: rebellious-grub-624
+run_uuid: 68fab160b7e1439bb5a52dfdcc1d3d76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782553294160
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

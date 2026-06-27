@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/e2a5b29361dc4749b3c9fe94f1903dd5/artifacts
+end_time: 1782556830403
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: e2a5b29361dc4749b3c9fe94f1903dd5
+run_name: gregarious-doe-853
+run_uuid: e2a5b29361dc4749b3c9fe94f1903dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556830391
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

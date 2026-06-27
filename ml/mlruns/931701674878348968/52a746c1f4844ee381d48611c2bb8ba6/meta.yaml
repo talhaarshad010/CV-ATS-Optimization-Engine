@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/52a746c1f4844ee381d48611c2bb8ba6/artifacts
+end_time: 1782556929373
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 52a746c1f4844ee381d48611c2bb8ba6
+run_name: gregarious-midge-946
+run_uuid: 52a746c1f4844ee381d48611c2bb8ba6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556929359
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

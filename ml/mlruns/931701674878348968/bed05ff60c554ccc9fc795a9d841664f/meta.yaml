@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/bed05ff60c554ccc9fc795a9d841664f/artifacts
+end_time: 1782556018907
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: bed05ff60c554ccc9fc795a9d841664f
+run_name: chill-moth-232
+run_uuid: bed05ff60c554ccc9fc795a9d841664f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556018897
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

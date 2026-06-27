@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/7de0d4e71be74c078359bb033688f970/artifacts
+end_time: 1782553316895
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 7de0d4e71be74c078359bb033688f970
+run_name: grandiose-ape-976
+run_uuid: 7de0d4e71be74c078359bb033688f970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782553316887
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

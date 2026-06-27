@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/a4f574391d8946c18d6d63a282c309ac/artifacts
+end_time: 1782553603379
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: a4f574391d8946c18d6d63a282c309ac
+run_name: loud-foal-193
+run_uuid: a4f574391d8946c18d6d63a282c309ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782553603371
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

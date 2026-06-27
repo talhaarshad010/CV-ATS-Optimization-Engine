@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/55528eab53f8427d97ad431352c3653e/artifacts
+end_time: 1782552464734
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 55528eab53f8427d97ad431352c3653e
+run_name: bright-shrimp-572
+run_uuid: 55528eab53f8427d97ad431352c3653e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782552464727
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

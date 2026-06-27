@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/ca19aa9e6ec94602a07280233698e5fb/artifacts
+end_time: 1782558005236
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: ca19aa9e6ec94602a07280233698e5fb
+run_name: sassy-seal-453
+run_uuid: ca19aa9e6ec94602a07280233698e5fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782558005221
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

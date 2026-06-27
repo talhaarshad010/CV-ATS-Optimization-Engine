@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/cc3b00f967874bf1bb5a53633b606259/artifacts
+end_time: 1782563086971
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: cc3b00f967874bf1bb5a53633b606259
+run_name: useful-crane-242
+run_uuid: cc3b00f967874bf1bb5a53633b606259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782563086962
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

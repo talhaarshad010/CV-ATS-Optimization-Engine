@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/bf41631eb27d424dafed666d55ef8b98/artifacts
+end_time: 1782556147523
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: bf41631eb27d424dafed666d55ef8b98
+run_name: languid-dolphin-43
+run_uuid: bf41631eb27d424dafed666d55ef8b98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556147511
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

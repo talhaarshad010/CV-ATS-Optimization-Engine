@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/fc51921ff4794d3fab49eae297fec5ea/artifacts
+end_time: 1782557179551
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: fc51921ff4794d3fab49eae297fec5ea
+run_name: likeable-auk-658
+run_uuid: fc51921ff4794d3fab49eae297fec5ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557179537
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/1fedd45f476b43bdbc02ac5d0f8c1de5/artifacts
+end_time: 1782553339574
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 1fedd45f476b43bdbc02ac5d0f8c1de5
+run_name: enchanting-conch-231
+run_uuid: 1fedd45f476b43bdbc02ac5d0f8c1de5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782553339566
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/283773274435930260/0b2f59875e464766a01316e3bcc0e307/artifacts
+end_time: 1782563087975
+entry_point_name: ''
+experiment_id: '283773274435930260'
+lifecycle_stage: active
+run_id: 0b2f59875e464766a01316e3bcc0e307
+run_name: worried-quail-624
+run_uuid: 0b2f59875e464766a01316e3bcc0e307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782563087960
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

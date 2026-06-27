@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/283773274435930260/ceab183a288e47cda3dec8239b215e60/artifacts
+end_time: 1782561317022
+entry_point_name: ''
+experiment_id: '283773274435930260'
+lifecycle_stage: active
+run_id: ceab183a288e47cda3dec8239b215e60
+run_name: sassy-sheep-44
+run_uuid: ceab183a288e47cda3dec8239b215e60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782561317012
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

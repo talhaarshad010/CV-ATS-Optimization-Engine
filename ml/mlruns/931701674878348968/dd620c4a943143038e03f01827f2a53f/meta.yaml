@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/dd620c4a943143038e03f01827f2a53f/artifacts
+end_time: 1782556267179
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: dd620c4a943143038e03f01827f2a53f
+run_name: adorable-cat-265
+run_uuid: dd620c4a943143038e03f01827f2a53f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556267170
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/7e9db86884ef44bc8b95eabd3264e434/artifacts
+end_time: 1782557708023
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 7e9db86884ef44bc8b95eabd3264e434
+run_name: nosy-duck-9
+run_uuid: 7e9db86884ef44bc8b95eabd3264e434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557708009
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

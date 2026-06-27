@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/355709709429891563/8ae563c4de024cf1914e93fbb818c4e9/artifacts
+end_time: 1782561146992
+entry_point_name: ''
+experiment_id: '355709709429891563'
+lifecycle_stage: active
+run_id: 8ae563c4de024cf1914e93fbb818c4e9
+run_name: selective-skink-343
+run_uuid: 8ae563c4de024cf1914e93fbb818c4e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782561146984
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

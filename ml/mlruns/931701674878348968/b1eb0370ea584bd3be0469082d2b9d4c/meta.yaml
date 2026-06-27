@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/b1eb0370ea584bd3be0469082d2b9d4c/artifacts
+end_time: 1782557644492
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: b1eb0370ea584bd3be0469082d2b9d4c
+run_name: bustling-stag-103
+run_uuid: b1eb0370ea584bd3be0469082d2b9d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557644478
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

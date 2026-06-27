@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/151a6d1175a2450080a6f3e5eee2eae6/artifacts
+end_time: 1782557616432
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 151a6d1175a2450080a6f3e5eee2eae6
+run_name: dapper-frog-318
+run_uuid: 151a6d1175a2450080a6f3e5eee2eae6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557616421
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

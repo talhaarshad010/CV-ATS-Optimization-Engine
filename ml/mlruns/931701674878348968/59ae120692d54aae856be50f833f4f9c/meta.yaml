@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/59ae120692d54aae856be50f833f4f9c/artifacts
+end_time: 1782552442850
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 59ae120692d54aae856be50f833f4f9c
+run_name: mysterious-hare-769
+run_uuid: 59ae120692d54aae856be50f833f4f9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782552442843
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

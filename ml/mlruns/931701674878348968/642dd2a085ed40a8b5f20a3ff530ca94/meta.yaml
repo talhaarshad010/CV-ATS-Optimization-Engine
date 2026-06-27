@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/642dd2a085ed40a8b5f20a3ff530ca94/artifacts
+end_time: 1782556076605
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 642dd2a085ed40a8b5f20a3ff530ca94
+run_name: dashing-toad-86
+run_uuid: 642dd2a085ed40a8b5f20a3ff530ca94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556076594
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

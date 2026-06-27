@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/0f4fd01a8a8b4b068d36ad4e36423ed4/artifacts
+end_time: 1782553693061
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 0f4fd01a8a8b4b068d36ad4e36423ed4
+run_name: bittersweet-fox-814
+run_uuid: 0f4fd01a8a8b4b068d36ad4e36423ed4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782553693053
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

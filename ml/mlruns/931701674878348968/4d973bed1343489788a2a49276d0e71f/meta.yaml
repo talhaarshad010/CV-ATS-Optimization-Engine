@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/4d973bed1343489788a2a49276d0e71f/artifacts
+end_time: 1782556161487
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 4d973bed1343489788a2a49276d0e71f
+run_name: selective-quail-323
+run_uuid: 4d973bed1343489788a2a49276d0e71f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556161475
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/14dd5dd4927f45a4a7a816a19005b67f/artifacts
+end_time: 1782557433060
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 14dd5dd4927f45a4a7a816a19005b67f
+run_name: gifted-crab-227
+run_uuid: 14dd5dd4927f45a4a7a816a19005b67f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557433045
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

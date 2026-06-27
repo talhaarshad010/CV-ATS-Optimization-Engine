@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/11bd35a6f90044be896c38d480a11e99/artifacts
+end_time: 1782556182670
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 11bd35a6f90044be896c38d480a11e99
+run_name: delicate-shrimp-260
+run_uuid: 11bd35a6f90044be896c38d480a11e99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556182658
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/07b7994a6bba47158c4f454316b7cef5/artifacts
+end_time: 1782557849395
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 07b7994a6bba47158c4f454316b7cef5
+run_name: gaudy-bass-92
+run_uuid: 07b7994a6bba47158c4f454316b7cef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557849383
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

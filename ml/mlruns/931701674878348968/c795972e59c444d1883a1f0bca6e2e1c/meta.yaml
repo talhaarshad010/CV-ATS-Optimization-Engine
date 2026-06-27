@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/c795972e59c444d1883a1f0bca6e2e1c/artifacts
+end_time: 1782552785113
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: c795972e59c444d1883a1f0bca6e2e1c
+run_name: mysterious-hawk-282
+run_uuid: c795972e59c444d1883a1f0bca6e2e1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782552785107
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

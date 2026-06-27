@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/355709709429891563/b7bf3c542740463d92d62a8de7c86d4a/artifacts
+end_time: 1782555926162
+entry_point_name: ''
+experiment_id: '355709709429891563'
+lifecycle_stage: active
+run_id: b7bf3c542740463d92d62a8de7c86d4a
+run_name: likeable-rat-443
+run_uuid: b7bf3c542740463d92d62a8de7c86d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782555926156
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

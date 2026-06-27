@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/c67e3ab1adb24528a968e5f416573c36/artifacts
+end_time: 1782562805914
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: c67e3ab1adb24528a968e5f416573c36
+run_name: thundering-yak-501
+run_uuid: c67e3ab1adb24528a968e5f416573c36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782562805898
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

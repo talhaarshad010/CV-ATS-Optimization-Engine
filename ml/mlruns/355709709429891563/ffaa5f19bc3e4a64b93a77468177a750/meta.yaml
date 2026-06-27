@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/355709709429891563/ffaa5f19bc3e4a64b93a77468177a750/artifacts
+end_time: 1782560747291
+entry_point_name: ''
+experiment_id: '355709709429891563'
+lifecycle_stage: active
+run_id: ffaa5f19bc3e4a64b93a77468177a750
+run_name: placid-shrimp-344
+run_uuid: ffaa5f19bc3e4a64b93a77468177a750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782560747279
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

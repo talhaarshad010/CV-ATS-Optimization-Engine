@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/355709709429891563/2708af1c71cc47038340e8fec34ad280/artifacts
+end_time: 1782555615425
+entry_point_name: ''
+experiment_id: '355709709429891563'
+lifecycle_stage: active
+run_id: 2708af1c71cc47038340e8fec34ad280
+run_name: brawny-goat-131
+run_uuid: 2708af1c71cc47038340e8fec34ad280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782555615419
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

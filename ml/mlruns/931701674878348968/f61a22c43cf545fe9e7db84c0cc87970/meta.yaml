@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/f61a22c43cf545fe9e7db84c0cc87970/artifacts
+end_time: 1782563057644
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: f61a22c43cf545fe9e7db84c0cc87970
+run_name: adaptable-gull-742
+run_uuid: f61a22c43cf545fe9e7db84c0cc87970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782563057634
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

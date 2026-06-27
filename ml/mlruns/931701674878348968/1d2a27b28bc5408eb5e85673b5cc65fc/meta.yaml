@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/1d2a27b28bc5408eb5e85673b5cc65fc/artifacts
+end_time: 1782557369564
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 1d2a27b28bc5408eb5e85673b5cc65fc
+run_name: unique-fish-376
+run_uuid: 1d2a27b28bc5408eb5e85673b5cc65fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557369550
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

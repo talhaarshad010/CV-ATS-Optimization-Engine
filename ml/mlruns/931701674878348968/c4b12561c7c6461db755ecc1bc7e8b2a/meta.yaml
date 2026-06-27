@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/c4b12561c7c6461db755ecc1bc7e8b2a/artifacts
+end_time: 1782552610469
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: c4b12561c7c6461db755ecc1bc7e8b2a
+run_name: unequaled-hare-294
+run_uuid: c4b12561c7c6461db755ecc1bc7e8b2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782552610464
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

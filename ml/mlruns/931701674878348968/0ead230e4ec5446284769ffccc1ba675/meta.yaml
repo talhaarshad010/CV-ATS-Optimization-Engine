@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/0ead230e4ec5446284769ffccc1ba675/artifacts
+end_time: 1782560626046
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 0ead230e4ec5446284769ffccc1ba675
+run_name: redolent-finch-134
+run_uuid: 0ead230e4ec5446284769ffccc1ba675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782560626035
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

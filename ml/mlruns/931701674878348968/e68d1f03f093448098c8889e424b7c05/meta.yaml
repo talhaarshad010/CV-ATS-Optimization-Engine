@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/e68d1f03f093448098c8889e424b7c05/artifacts
+end_time: 1782554204238
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: e68d1f03f093448098c8889e424b7c05
+run_name: inquisitive-ant-98
+run_uuid: e68d1f03f093448098c8889e424b7c05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782554204233
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

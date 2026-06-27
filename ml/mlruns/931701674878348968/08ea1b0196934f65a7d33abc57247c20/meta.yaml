@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/08ea1b0196934f65a7d33abc57247c20/artifacts
+end_time: 1782556401259
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 08ea1b0196934f65a7d33abc57247c20
+run_name: rebellious-bird-169
+run_uuid: 08ea1b0196934f65a7d33abc57247c20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556401246
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

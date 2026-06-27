@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/b3b146a5221f4ab0b3f7c7639a036b32/artifacts
+end_time: 1782557468284
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: b3b146a5221f4ab0b3f7c7639a036b32
+run_name: omniscient-robin-381
+run_uuid: b3b146a5221f4ab0b3f7c7639a036b32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557468270
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

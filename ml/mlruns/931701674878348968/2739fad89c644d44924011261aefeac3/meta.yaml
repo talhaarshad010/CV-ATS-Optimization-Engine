@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/2739fad89c644d44924011261aefeac3/artifacts
+end_time: 1782556980641
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 2739fad89c644d44924011261aefeac3
+run_name: whimsical-rat-388
+run_uuid: 2739fad89c644d44924011261aefeac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556980627
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

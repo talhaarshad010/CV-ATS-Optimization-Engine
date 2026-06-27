@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/c7d1a79b7eab415881e913324cac44b7/artifacts
+end_time: 1782553134879
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: c7d1a79b7eab415881e913324cac44b7
+run_name: chill-hound-755
+run_uuid: c7d1a79b7eab415881e913324cac44b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782553134873
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

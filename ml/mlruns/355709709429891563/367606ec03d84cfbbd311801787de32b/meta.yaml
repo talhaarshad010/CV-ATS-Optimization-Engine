@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/355709709429891563/367606ec03d84cfbbd311801787de32b/artifacts
+end_time: 1782563047963
+entry_point_name: ''
+experiment_id: '355709709429891563'
+lifecycle_stage: active
+run_id: 367606ec03d84cfbbd311801787de32b
+run_name: righteous-hound-702
+run_uuid: 367606ec03d84cfbbd311801787de32b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782563047951
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

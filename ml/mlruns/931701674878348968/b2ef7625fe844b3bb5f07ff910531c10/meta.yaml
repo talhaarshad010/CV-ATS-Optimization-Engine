@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/b2ef7625fe844b3bb5f07ff910531c10/artifacts
+end_time: 1782556083684
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: b2ef7625fe844b3bb5f07ff910531c10
+run_name: languid-fowl-678
+run_uuid: b2ef7625fe844b3bb5f07ff910531c10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556083670
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

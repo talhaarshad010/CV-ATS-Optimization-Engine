@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/16763feadbc24d9e9ef2bc1dfe907b04/artifacts
+end_time: 1782557348536
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 16763feadbc24d9e9ef2bc1dfe907b04
+run_name: tasteful-crane-115
+run_uuid: 16763feadbc24d9e9ef2bc1dfe907b04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557348522
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

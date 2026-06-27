@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/1496f774232e498f9e13774b008bd0de/artifacts
+end_time: 1782552188975
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 1496f774232e498f9e13774b008bd0de
+run_name: classy-moth-136
+run_uuid: 1496f774232e498f9e13774b008bd0de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782552188969
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

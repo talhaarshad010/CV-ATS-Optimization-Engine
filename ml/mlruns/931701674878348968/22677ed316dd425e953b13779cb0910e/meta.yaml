@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/22677ed316dd425e953b13779cb0910e/artifacts
+end_time: 1782558967639
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 22677ed316dd425e953b13779cb0910e
+run_name: useful-mole-875
+run_uuid: 22677ed316dd425e953b13779cb0910e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782558967624
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

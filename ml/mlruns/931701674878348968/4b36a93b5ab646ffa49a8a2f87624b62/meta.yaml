@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/4b36a93b5ab646ffa49a8a2f87624b62/artifacts
+end_time: 1782555858468
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 4b36a93b5ab646ffa49a8a2f87624b62
+run_name: upbeat-penguin-801
+run_uuid: 4b36a93b5ab646ffa49a8a2f87624b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782555858463
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/355709709429891563/55f95b2ec57b46748848b9820ca13e8e/artifacts
+end_time: 1782554071151
+entry_point_name: ''
+experiment_id: '355709709429891563'
+lifecycle_stage: active
+run_id: 55f95b2ec57b46748848b9820ca13e8e
+run_name: upbeat-newt-792
+run_uuid: 55f95b2ec57b46748848b9820ca13e8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782554071144
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

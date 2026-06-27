@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/0bf46c41a86749908e92ec3362e390cc/artifacts
+end_time: 1782556436520
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 0bf46c41a86749908e92ec3362e390cc
+run_name: rogue-moose-294
+run_uuid: 0bf46c41a86749908e92ec3362e390cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556436511
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

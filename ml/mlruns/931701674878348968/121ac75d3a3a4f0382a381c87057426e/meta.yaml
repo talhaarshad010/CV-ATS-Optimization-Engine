@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/121ac75d3a3a4f0382a381c87057426e/artifacts
+end_time: 1782557390713
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 121ac75d3a3a4f0382a381c87057426e
+run_name: enchanting-dog-178
+run_uuid: 121ac75d3a3a4f0382a381c87057426e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557390699
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/12cc613a497544a2b6dff44ea25d1c18/artifacts
+end_time: 1782552632371
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 12cc613a497544a2b6dff44ea25d1c18
+run_name: melodic-swan-989
+run_uuid: 12cc613a497544a2b6dff44ea25d1c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782552632363
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

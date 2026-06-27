@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/40e0c4f8eb5e4aa188e0bf65c1e7704e/artifacts
+end_time: 1782557454229
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 40e0c4f8eb5e4aa188e0bf65c1e7704e
+run_name: inquisitive-rat-224
+run_uuid: 40e0c4f8eb5e4aa188e0bf65c1e7704e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557454215
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

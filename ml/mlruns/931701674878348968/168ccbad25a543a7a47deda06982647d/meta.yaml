@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/168ccbad25a543a7a47deda06982647d/artifacts
+end_time: 1782553249262
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 168ccbad25a543a7a47deda06982647d
+run_name: burly-bee-639
+run_uuid: 168ccbad25a543a7a47deda06982647d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782553249254
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

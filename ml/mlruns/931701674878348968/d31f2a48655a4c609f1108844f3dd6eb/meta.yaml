@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/d31f2a48655a4c609f1108844f3dd6eb/artifacts
+end_time: 1782556865855
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: d31f2a48655a4c609f1108844f3dd6eb
+run_name: likeable-steed-31
+run_uuid: d31f2a48655a4c609f1108844f3dd6eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556865842
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

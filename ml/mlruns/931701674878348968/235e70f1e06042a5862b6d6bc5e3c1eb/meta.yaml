@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/235e70f1e06042a5862b6d6bc5e3c1eb/artifacts
+end_time: 1782562833120
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 235e70f1e06042a5862b6d6bc5e3c1eb
+run_name: agreeable-shoat-265
+run_uuid: 235e70f1e06042a5862b6d6bc5e3c1eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782562833112
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

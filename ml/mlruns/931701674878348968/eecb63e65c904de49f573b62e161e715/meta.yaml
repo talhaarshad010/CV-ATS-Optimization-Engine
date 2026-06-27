@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/eecb63e65c904de49f573b62e161e715/artifacts
+end_time: 1782561264244
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: eecb63e65c904de49f573b62e161e715
+run_name: sedate-tern-317
+run_uuid: eecb63e65c904de49f573b62e161e715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782561264235
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

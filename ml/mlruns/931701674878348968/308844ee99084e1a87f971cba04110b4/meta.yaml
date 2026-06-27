@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/308844ee99084e1a87f971cba04110b4/artifacts
+end_time: 1782557383696
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 308844ee99084e1a87f971cba04110b4
+run_name: bouncy-whale-734
+run_uuid: 308844ee99084e1a87f971cba04110b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557383682
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

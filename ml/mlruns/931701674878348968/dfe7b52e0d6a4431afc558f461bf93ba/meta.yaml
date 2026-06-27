@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/dfe7b52e0d6a4431afc558f461bf93ba/artifacts
+end_time: 1782553384832
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: dfe7b52e0d6a4431afc558f461bf93ba
+run_name: powerful-dog-820
+run_uuid: dfe7b52e0d6a4431afc558f461bf93ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782553384824
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

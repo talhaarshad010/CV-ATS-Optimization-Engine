@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/031b85fd950049388edfeb6bdfbc2a35/artifacts
+end_time: 1782557482394
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 031b85fd950049388edfeb6bdfbc2a35
+run_name: rambunctious-bat-422
+run_uuid: 031b85fd950049388edfeb6bdfbc2a35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557482380
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

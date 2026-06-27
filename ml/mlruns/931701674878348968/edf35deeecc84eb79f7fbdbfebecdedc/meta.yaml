@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/edf35deeecc84eb79f7fbdbfebecdedc/artifacts
+end_time: 1782557842458
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: edf35deeecc84eb79f7fbdbfebecdedc
+run_name: trusting-tern-625
+run_uuid: edf35deeecc84eb79f7fbdbfebecdedc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557842443
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

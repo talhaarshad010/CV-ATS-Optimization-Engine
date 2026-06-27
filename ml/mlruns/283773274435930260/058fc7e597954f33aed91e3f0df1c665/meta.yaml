@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/283773274435930260/058fc7e597954f33aed91e3f0df1c665/artifacts
+end_time: 1782563056713
+entry_point_name: ''
+experiment_id: '283773274435930260'
+lifecycle_stage: active
+run_id: 058fc7e597954f33aed91e3f0df1c665
+run_name: selective-crab-958
+run_uuid: 058fc7e597954f33aed91e3f0df1c665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782563056700
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/c6fe29d1659640fa8343529807cf2b53/artifacts
+end_time: 1782560881716
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: c6fe29d1659640fa8343529807cf2b53
+run_name: abrasive-ram-124
+run_uuid: c6fe29d1659640fa8343529807cf2b53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782560881701
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

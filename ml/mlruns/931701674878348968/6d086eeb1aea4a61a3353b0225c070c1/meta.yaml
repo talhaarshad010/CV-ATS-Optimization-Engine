@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/6d086eeb1aea4a61a3353b0225c070c1/artifacts
+end_time: 1782556887093
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 6d086eeb1aea4a61a3353b0225c070c1
+run_name: colorful-dolphin-905
+run_uuid: 6d086eeb1aea4a61a3353b0225c070c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556887080
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

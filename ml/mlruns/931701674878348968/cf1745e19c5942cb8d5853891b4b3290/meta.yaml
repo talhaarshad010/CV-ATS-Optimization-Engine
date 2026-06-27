@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/cf1745e19c5942cb8d5853891b4b3290/artifacts
+end_time: 1782561382539
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: cf1745e19c5942cb8d5853891b4b3290
+run_name: capricious-auk-731
+run_uuid: cf1745e19c5942cb8d5853891b4b3290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782561382530
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

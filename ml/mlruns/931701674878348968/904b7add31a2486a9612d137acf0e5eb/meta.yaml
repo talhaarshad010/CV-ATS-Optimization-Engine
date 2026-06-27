@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/904b7add31a2486a9612d137acf0e5eb/artifacts
+end_time: 1782562895544
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 904b7add31a2486a9612d137acf0e5eb
+run_name: mercurial-worm-644
+run_uuid: 904b7add31a2486a9612d137acf0e5eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782562895530
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

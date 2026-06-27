@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/f275e89effd244b7aed58680709b1ff2/artifacts
+end_time: 1782557214831
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: f275e89effd244b7aed58680709b1ff2
+run_name: sassy-ray-965
+run_uuid: f275e89effd244b7aed58680709b1ff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557214819
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

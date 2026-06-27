@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/967c0f8466bf42b6974abbf00991486c/artifacts
+end_time: 1782554219246
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 967c0f8466bf42b6974abbf00991486c
+run_name: resilient-hog-19
+run_uuid: 967c0f8466bf42b6974abbf00991486c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782554219239
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

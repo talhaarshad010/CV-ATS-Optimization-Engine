@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/13099133ebcc416cb83f2fa8c94583be/artifacts
+end_time: 1782553157282
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 13099133ebcc416cb83f2fa8c94583be
+run_name: resilient-lark-948
+run_uuid: 13099133ebcc416cb83f2fa8c94583be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782553157273
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/03059828fcb94de6a5b554fb8f1d48b0/artifacts
+end_time: 1782552807003
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 03059828fcb94de6a5b554fb8f1d48b0
+run_name: bouncy-crab-995
+run_uuid: 03059828fcb94de6a5b554fb8f1d48b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782552806995
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

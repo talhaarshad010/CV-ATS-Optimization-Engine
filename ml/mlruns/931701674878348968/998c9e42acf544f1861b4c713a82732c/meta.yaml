@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/998c9e42acf544f1861b4c713a82732c/artifacts
+end_time: 1782552870785
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 998c9e42acf544f1861b4c713a82732c
+run_name: receptive-dog-624
+run_uuid: 998c9e42acf544f1861b4c713a82732c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782552870780
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

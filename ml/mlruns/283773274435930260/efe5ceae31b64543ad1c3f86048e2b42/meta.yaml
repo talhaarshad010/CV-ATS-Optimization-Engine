@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/283773274435930260/efe5ceae31b64543ad1c3f86048e2b42/artifacts
+end_time: 1782563045900
+entry_point_name: ''
+experiment_id: '283773274435930260'
+lifecycle_stage: active
+run_id: efe5ceae31b64543ad1c3f86048e2b42
+run_name: bemused-tern-247
+run_uuid: efe5ceae31b64543ad1c3f86048e2b42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782563045888
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

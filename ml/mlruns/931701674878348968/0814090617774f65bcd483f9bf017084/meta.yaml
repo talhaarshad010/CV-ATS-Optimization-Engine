@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/0814090617774f65bcd483f9bf017084/artifacts
+end_time: 1782553478004
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 0814090617774f65bcd483f9bf017084
+run_name: burly-asp-467
+run_uuid: 0814090617774f65bcd483f9bf017084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782553477996
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/28a593c20b3f47e6bb049352e5364255/artifacts
+end_time: 1782555042382
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 28a593c20b3f47e6bb049352e5364255
+run_name: welcoming-dove-525
+run_uuid: 28a593c20b3f47e6bb049352e5364255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782555042374
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

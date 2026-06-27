@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/7fdee7ee00584d5f9b6865e126a2c6a8/artifacts
+end_time: 1782557722171
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 7fdee7ee00584d5f9b6865e126a2c6a8
+run_name: calm-shark-874
+run_uuid: 7fdee7ee00584d5f9b6865e126a2c6a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557722157
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

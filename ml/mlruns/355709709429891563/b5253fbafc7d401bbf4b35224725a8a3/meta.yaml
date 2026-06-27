@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/355709709429891563/b5253fbafc7d401bbf4b35224725a8a3/artifacts
+end_time: 1782561212683
+entry_point_name: ''
+experiment_id: '355709709429891563'
+lifecycle_stage: active
+run_id: b5253fbafc7d401bbf4b35224725a8a3
+run_name: useful-wren-770
+run_uuid: b5253fbafc7d401bbf4b35224725a8a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782561212670
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

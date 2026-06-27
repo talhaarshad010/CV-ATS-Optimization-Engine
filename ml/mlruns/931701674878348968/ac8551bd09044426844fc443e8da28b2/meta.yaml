@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/ac8551bd09044426844fc443e8da28b2/artifacts
+end_time: 1782557158558
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: ac8551bd09044426844fc443e8da28b2
+run_name: invincible-croc-241
+run_uuid: ac8551bd09044426844fc443e8da28b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557158547
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

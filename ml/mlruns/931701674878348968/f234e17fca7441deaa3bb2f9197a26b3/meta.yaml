@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/f234e17fca7441deaa3bb2f9197a26b3/artifacts
+end_time: 1782560860521
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: f234e17fca7441deaa3bb2f9197a26b3
+run_name: flawless-auk-881
+run_uuid: f234e17fca7441deaa3bb2f9197a26b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782560860505
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

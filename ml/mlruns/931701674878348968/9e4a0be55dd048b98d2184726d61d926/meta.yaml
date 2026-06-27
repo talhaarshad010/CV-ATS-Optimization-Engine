@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/9e4a0be55dd048b98d2184726d61d926/artifacts
+end_time: 1782557658946
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 9e4a0be55dd048b98d2184726d61d926
+run_name: nervous-shark-554
+run_uuid: 9e4a0be55dd048b98d2184726d61d926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557658932
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

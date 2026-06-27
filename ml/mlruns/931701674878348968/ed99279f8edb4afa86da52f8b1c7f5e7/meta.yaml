@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/ed99279f8edb4afa86da52f8b1c7f5e7/artifacts
+end_time: 1782558996928
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: ed99279f8edb4afa86da52f8b1c7f5e7
+run_name: adaptable-conch-800
+run_uuid: ed99279f8edb4afa86da52f8b1c7f5e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782558996913
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

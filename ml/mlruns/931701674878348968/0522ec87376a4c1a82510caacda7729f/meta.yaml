@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/0522ec87376a4c1a82510caacda7729f/artifacts
+end_time: 1782557743327
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 0522ec87376a4c1a82510caacda7729f
+run_name: bittersweet-dog-886
+run_uuid: 0522ec87376a4c1a82510caacda7729f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557743312
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

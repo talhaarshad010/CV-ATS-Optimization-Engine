@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/355709709429891563/3c8c28fd7c7c424386df60dac908136d/artifacts
+end_time: 1782555096929
+entry_point_name: ''
+experiment_id: '355709709429891563'
+lifecycle_stage: active
+run_id: 3c8c28fd7c7c424386df60dac908136d
+run_name: unique-sheep-83
+run_uuid: 3c8c28fd7c7c424386df60dac908136d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782555096922
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

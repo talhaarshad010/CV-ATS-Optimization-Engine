@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/29b9089b34064c05abbd0b00c3c4e2bf/artifacts
+end_time: 1782552522929
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 29b9089b34064c05abbd0b00c3c4e2bf
+run_name: sassy-hare-653
+run_uuid: 29b9089b34064c05abbd0b00c3c4e2bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782552522922
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

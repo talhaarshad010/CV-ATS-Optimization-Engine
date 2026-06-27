@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/fc4b243d25fa4901b833c34eee3981ad/artifacts
+end_time: 1782559032335
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: fc4b243d25fa4901b833c34eee3981ad
+run_name: classy-lynx-89
+run_uuid: fc4b243d25fa4901b833c34eee3981ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782559032321
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

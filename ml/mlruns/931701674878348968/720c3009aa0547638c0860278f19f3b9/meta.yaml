@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/720c3009aa0547638c0860278f19f3b9/artifacts
+end_time: 1782553111819
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 720c3009aa0547638c0860278f19f3b9
+run_name: legendary-shark-6
+run_uuid: 720c3009aa0547638c0860278f19f3b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782553111811
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

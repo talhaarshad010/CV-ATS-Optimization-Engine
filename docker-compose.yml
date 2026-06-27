@@ -1,0 +1,77 @@
+version: "3.9"
+
+services:
+  # 1. FastAPI Backend Service
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./backend/.env
+    # We mount the .env file explicitly as requested
+    volumes:
+      - ./backend/.env:/app/.env
+    restart: always
+
+  # 2. Next.js Frontend Service
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        # Build argument mapping
+        - NEXT_PUBLIC_API_URL=http://localhost:8000
+    ports:
+      - "3000:3000"
+    environment:
+      # Direct service communication link inside docker network,
+      # but browser API calls fallback to client host endpoint.
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+    depends_on:
+      - backend
+    restart: always
+
+  # 3. Ollama LLM Service
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_models:/root/.ollama
+    restart: always
+
+  # 4. Ollama Automatic Model Puller Companion
+  ollama-pull:
+    image: curlimages/curl:latest
+    depends_on:
+      - ollama
+    entrypoint: >
+      sh -c "
+      echo 'Waiting for Ollama service to start...';
+      until curl -s http://ollama:11434/api/tags > /dev/null; do
+        sleep 3;
+      done;
+      echo 'Ollama service is up! Pulling Llama 3.1 8B Instruct model...';
+      curl -X POST http://ollama:11434/api/pull -d '{\"name\": \"llama3.1:8b-instruct-q4_K_M\"}';
+      echo 'Llama 3.1 8B model successfully pulled!';
+      "
+
+  # 5. MLflow Tracking Server Service
+  mlflow:
+    image: python:3.11-slim
+    command: >
+      sh -c "
+      pip install mlflow==2.13.0 &&
+      mlflow server --host 0.0.0.0 --port 5000 --backend-store-uri file:/mlruns
+      "
+    ports:
+      # Map host port 5050 to container port 5000 to prevent macOS AirPlay conflicts
+      - "5050:5000"
+    volumes:
+      - ./ml/mlruns:/mlruns
+    restart: always
+
+volumes:
+  ollama_models:

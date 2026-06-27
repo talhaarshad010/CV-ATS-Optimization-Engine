@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/355709709429891563/84626d03d8f1412bb81956765f6ebacb/artifacts
+end_time: 1782560659632
+entry_point_name: ''
+experiment_id: '355709709429891563'
+lifecycle_stage: active
+run_id: 84626d03d8f1412bb81956765f6ebacb
+run_name: burly-finch-377
+run_uuid: 84626d03d8f1412bb81956765f6ebacb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782560659622
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

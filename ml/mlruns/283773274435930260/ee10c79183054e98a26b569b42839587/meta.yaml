@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/283773274435930260/ee10c79183054e98a26b569b42839587/artifacts
+end_time: 1782563099105
+entry_point_name: ''
+experiment_id: '283773274435930260'
+lifecycle_stage: active
+run_id: ee10c79183054e98a26b569b42839587
+run_name: amazing-penguin-202
+run_uuid: ee10c79183054e98a26b569b42839587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782563099091
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

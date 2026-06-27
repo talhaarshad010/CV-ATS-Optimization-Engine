@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/451c617fd145484da16b8a8cf622cc29/artifacts
+end_time: 1782557983868
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 451c617fd145484da16b8a8cf622cc29
+run_name: thundering-skunk-861
+run_uuid: 451c617fd145484da16b8a8cf622cc29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557983853
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/9584bf5f97eb4783a2255bb3c78180c7/artifacts
+end_time: 1782561219897
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 9584bf5f97eb4783a2255bb3c78180c7
+run_name: popular-sheep-144
+run_uuid: 9584bf5f97eb4783a2255bb3c78180c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782561219881
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

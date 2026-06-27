@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/9c01a331107b4e408e245116a82ba2fd/artifacts
+end_time: 1782559025317
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 9c01a331107b4e408e245116a82ba2fd
+run_name: skittish-croc-611
+run_uuid: 9c01a331107b4e408e245116a82ba2fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782559025305
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

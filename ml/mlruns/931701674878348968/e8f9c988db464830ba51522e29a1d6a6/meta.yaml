@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/e8f9c988db464830ba51522e29a1d6a6/artifacts
+end_time: 1782557820922
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: e8f9c988db464830ba51522e29a1d6a6
+run_name: adorable-loon-71
+run_uuid: e8f9c988db464830ba51522e29a1d6a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557820908
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

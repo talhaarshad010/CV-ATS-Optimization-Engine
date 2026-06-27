@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/c395209d58744a6ab68caa44fd35bf06/artifacts
+end_time: 1782556571672
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: c395209d58744a6ab68caa44fd35bf06
+run_name: bright-crab-602
+run_uuid: c395209d58744a6ab68caa44fd35bf06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556571659
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

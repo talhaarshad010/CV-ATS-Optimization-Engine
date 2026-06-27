@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/15d939000ab445feb14d65432275d261/artifacts
+end_time: 1782557461260
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 15d939000ab445feb14d65432275d261
+run_name: bright-hare-249
+run_uuid: 15d939000ab445feb14d65432275d261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557461247
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

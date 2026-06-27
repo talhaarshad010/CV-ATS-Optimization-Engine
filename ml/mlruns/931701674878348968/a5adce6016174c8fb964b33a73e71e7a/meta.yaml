@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/a5adce6016174c8fb964b33a73e71e7a/artifacts
+end_time: 1782557053018
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: a5adce6016174c8fb964b33a73e71e7a
+run_name: welcoming-ram-856
+run_uuid: a5adce6016174c8fb964b33a73e71e7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557053004
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

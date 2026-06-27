@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/2243838e08c34d74a83517ed0d487215/artifacts
+end_time: 1782556578755
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 2243838e08c34d74a83517ed0d487215
+run_name: dashing-fish-456
+run_uuid: 2243838e08c34d74a83517ed0d487215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556578743
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/1401f486f9fe4d3fb6e562bb02ad2619/artifacts
+end_time: 1782556351777
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 1401f486f9fe4d3fb6e562bb02ad2619
+run_name: debonair-rook-867
+run_uuid: 1401f486f9fe4d3fb6e562bb02ad2619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556351764
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

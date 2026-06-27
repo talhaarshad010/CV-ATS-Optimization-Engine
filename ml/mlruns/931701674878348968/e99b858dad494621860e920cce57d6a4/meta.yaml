@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/e99b858dad494621860e920cce57d6a4/artifacts
+end_time: 1782557031903
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: e99b858dad494621860e920cce57d6a4
+run_name: efficient-squid-86
+run_uuid: e99b858dad494621860e920cce57d6a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557031890
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

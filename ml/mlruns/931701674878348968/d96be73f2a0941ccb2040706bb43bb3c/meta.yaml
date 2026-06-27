@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/d96be73f2a0941ccb2040706bb43bb3c/artifacts
+end_time: 1782562778214
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: d96be73f2a0941ccb2040706bb43bb3c
+run_name: classy-sponge-592
+run_uuid: d96be73f2a0941ccb2040706bb43bb3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782562778204
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/355709709429891563/89278dd838ef43a098455664e53f671e/artifacts
+end_time: 1782563088258
+entry_point_name: ''
+experiment_id: '355709709429891563'
+lifecycle_stage: active
+run_id: 89278dd838ef43a098455664e53f671e
+run_name: chill-wren-724
+run_uuid: 89278dd838ef43a098455664e53f671e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782563088247
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

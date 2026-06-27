@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/9973a8c3712641c9915f27815c8fdc5f/artifacts
+end_time: 1782552566764
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 9973a8c3712641c9915f27815c8fdc5f
+run_name: vaunted-frog-768
+run_uuid: 9973a8c3712641c9915f27815c8fdc5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782552566756
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

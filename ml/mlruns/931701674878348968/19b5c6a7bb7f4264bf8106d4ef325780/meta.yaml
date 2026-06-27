@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/19b5c6a7bb7f4264bf8106d4ef325780/artifacts
+end_time: 1782552987384
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 19b5c6a7bb7f4264bf8106d4ef325780
+run_name: bouncy-lynx-277
+run_uuid: 19b5c6a7bb7f4264bf8106d4ef325780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782552987376
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

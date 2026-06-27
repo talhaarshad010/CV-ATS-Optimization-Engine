@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/03d208b97c6a4c9a922841698070c4fa/artifacts
+end_time: 1782560888739
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 03d208b97c6a4c9a922841698070c4fa
+run_name: mysterious-zebra-309
+run_uuid: 03d208b97c6a4c9a922841698070c4fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782560888723
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

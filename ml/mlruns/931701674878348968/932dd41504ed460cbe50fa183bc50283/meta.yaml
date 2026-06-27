@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/932dd41504ed460cbe50fa183bc50283/artifacts
+end_time: 1782557123379
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 932dd41504ed460cbe50fa183bc50283
+run_name: luxuriant-fox-333
+run_uuid: 932dd41504ed460cbe50fa183bc50283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557123364
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

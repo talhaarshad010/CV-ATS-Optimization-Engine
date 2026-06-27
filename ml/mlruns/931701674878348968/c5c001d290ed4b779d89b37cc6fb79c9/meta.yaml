@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/c5c001d290ed4b779d89b37cc6fb79c9/artifacts
+end_time: 1782560803021
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: c5c001d290ed4b779d89b37cc6fb79c9
+run_name: salty-dolphin-319
+run_uuid: c5c001d290ed4b779d89b37cc6fb79c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782560803009
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

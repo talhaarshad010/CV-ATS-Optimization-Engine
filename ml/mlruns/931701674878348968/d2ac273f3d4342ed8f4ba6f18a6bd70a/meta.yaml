@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/d2ac273f3d4342ed8f4ba6f18a6bd70a/artifacts
+end_time: 1782557835419
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: d2ac273f3d4342ed8f4ba6f18a6bd70a
+run_name: bittersweet-ox-420
+run_uuid: d2ac273f3d4342ed8f4ba6f18a6bd70a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557835405
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

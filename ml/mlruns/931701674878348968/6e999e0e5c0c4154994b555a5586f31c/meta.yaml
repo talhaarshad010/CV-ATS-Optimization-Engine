@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/6e999e0e5c0c4154994b555a5586f31c/artifacts
+end_time: 1782557116393
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 6e999e0e5c0c4154994b555a5586f31c
+run_name: bright-carp-490
+run_uuid: 6e999e0e5c0c4154994b555a5586f31c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557116379
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

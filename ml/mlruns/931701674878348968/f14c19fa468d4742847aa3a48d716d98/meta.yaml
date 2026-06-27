@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/f14c19fa468d4742847aa3a48d716d98/artifacts
+end_time: 1782556098033
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: f14c19fa468d4742847aa3a48d716d98
+run_name: classy-gnu-926
+run_uuid: f14c19fa468d4742847aa3a48d716d98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556098021
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/c54ec47c5fe34f43912f0c2218f83e71/artifacts
+end_time: 1782554129856
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: c54ec47c5fe34f43912f0c2218f83e71
+run_name: blushing-fly-237
+run_uuid: c54ec47c5fe34f43912f0c2218f83e71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782554129848
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

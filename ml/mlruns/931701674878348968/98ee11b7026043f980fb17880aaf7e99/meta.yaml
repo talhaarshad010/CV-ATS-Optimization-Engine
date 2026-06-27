@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/98ee11b7026043f980fb17880aaf7e99/artifacts
+end_time: 1782556543202
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 98ee11b7026043f980fb17880aaf7e99
+run_name: big-hare-337
+run_uuid: 98ee11b7026043f980fb17880aaf7e99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556543189
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

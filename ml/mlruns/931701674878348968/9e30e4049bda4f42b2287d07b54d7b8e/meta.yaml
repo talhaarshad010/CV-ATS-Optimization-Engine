@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/9e30e4049bda4f42b2287d07b54d7b8e/artifacts
+end_time: 1782560895882
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 9e30e4049bda4f42b2287d07b54d7b8e
+run_name: salty-auk-555
+run_uuid: 9e30e4049bda4f42b2287d07b54d7b8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782560895871
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

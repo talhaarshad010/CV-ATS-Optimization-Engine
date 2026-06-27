@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/985b295bca6a44ddbe5b1373385af37c/artifacts
+end_time: 1782557313273
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 985b295bca6a44ddbe5b1373385af37c
+run_name: receptive-eel-381
+run_uuid: 985b295bca6a44ddbe5b1373385af37c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782557313259
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

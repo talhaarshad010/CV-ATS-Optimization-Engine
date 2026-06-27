@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/398ae2abe7ac4a9fb67519db5dcece8a/artifacts
+end_time: 1782556380002
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: 398ae2abe7ac4a9fb67519db5dcece8a
+run_name: bold-hog-815
+run_uuid: 398ae2abe7ac4a9fb67519db5dcece8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556379990
+status: 3
+tags: []
+user_id: muhammadtalhaarshad

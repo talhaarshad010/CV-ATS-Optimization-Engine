@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/muhammadtalhaarshad/Downloads/cv-platform/ml/mlruns/931701674878348968/cb7cac8e37dc4ebd949af7735da77c25/artifacts
+end_time: 1782556901205
+entry_point_name: ''
+experiment_id: '931701674878348968'
+lifecycle_stage: active
+run_id: cb7cac8e37dc4ebd949af7735da77c25
+run_name: stately-fowl-186
+run_uuid: cb7cac8e37dc4ebd949af7735da77c25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782556901192
+status: 3
+tags: []
+user_id: muhammadtalhaarshad
