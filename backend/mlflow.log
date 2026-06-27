@@ -1,0 +1,16 @@
+/Users/muhammadtalhaarshad/Downloads/cv-platform/backend/venv/lib/python3.13/site-packages/pydantic/_internal/_config.py:386: UserWarning: Valid config keys have changed in V2:
+* 'schema_extra' has been renamed to 'json_schema_extra'
+  warnings.warn(message, UserWarning)
+[2026-06-27 17:44:48 +0500] [19987] [INFO] Starting gunicorn 22.0.0
+[2026-06-27 17:44:48 +0500] [19987] [ERROR] Connection in use: ('127.0.0.1', 5050)
+[2026-06-27 17:44:48 +0500] [19987] [ERROR] Retrying in 1 second.
+[2026-06-27 17:44:49 +0500] [19987] [ERROR] Connection in use: ('127.0.0.1', 5050)
+[2026-06-27 17:44:49 +0500] [19987] [ERROR] Retrying in 1 second.
+[2026-06-27 17:44:50 +0500] [19987] [ERROR] Connection in use: ('127.0.0.1', 5050)
+[2026-06-27 17:44:50 +0500] [19987] [ERROR] Retrying in 1 second.
+[2026-06-27 17:44:51 +0500] [19987] [ERROR] Connection in use: ('127.0.0.1', 5050)
+[2026-06-27 17:44:51 +0500] [19987] [ERROR] Retrying in 1 second.
+[2026-06-27 17:44:52 +0500] [19987] [ERROR] Connection in use: ('127.0.0.1', 5050)
+[2026-06-27 17:44:52 +0500] [19987] [ERROR] Retrying in 1 second.
+[2026-06-27 17:44:53 +0500] [19987] [ERROR] Can't connect to ('127.0.0.1', 5050)
+Running the mlflow server failed. Please see the logs above for details.
