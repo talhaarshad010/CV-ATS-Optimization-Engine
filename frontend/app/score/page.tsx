@@ -314,9 +314,6 @@ function ScorePageContent() {
 
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
             <div className="space-y-2">
-              <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full glass-badge text-xs font-semibold">
-                <Target className="w-3.5 h-3.5" /> Phase 4 & 5
-              </div>
               <h1 className="text-3xl md:text-4xl font-black tracking-tight text-[var(--text-primary)]">
                 ATS Matching & SHAP Explainer
               </h1>

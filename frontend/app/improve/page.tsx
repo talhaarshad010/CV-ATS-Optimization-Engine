@@ -125,7 +125,7 @@ function ImprovePageContent() {
       setBulletsData(data);
     } catch (err: any) {
       console.error(err);
-      setError(err.response?.data?.detail || 'Failed to rewrite bullets with Llama 3.1.');
+      setError(err.response?.data?.detail || 'Failed to rewrite bullets.');
     } finally {
       setLoadingRewrite(false);
     }
@@ -169,7 +169,7 @@ function ImprovePageContent() {
       console.error(err);
       setChatMessages(prev => [...prev, { 
         sender: 'bot', 
-        text: 'Sorry, I encountered an error communicating with local Llama 3.1.' 
+        text: 'Sorry, I encountered an error communicating with local AI.' 
       }]);
     } finally {
       setLoadingChat(false);
@@ -242,7 +242,7 @@ ${report.rewritten_bullets.rewritten_bullets[idx] || 'N/A'}
 `).join('\n') : '- No bullets rewritten or experience section was empty.'}
 
 ===========================================================
-      Generated automatically by local Llama 3.1
+      Generated automatically by CV Platform
 ===========================================================`;
 
       const blob = new Blob([textContent], { type: 'text/plain;charset=utf-8' });
@@ -311,7 +311,7 @@ ${report.rewritten_bullets.rewritten_bullets[idx] || 'N/A'}
               CV Optimization Engine
             </h1>
             <p className="text-[var(--text-secondary)] max-w-xl text-sm">
-              Use local Llama 3.1 to rewrite bullets, bridge skill gaps, or chat directly about key CV optimizations.
+              Use CV Platform to rewrite bullets, bridge skill gaps, or chat directly about key CV optimizations.
             </p>
           </div>
         </div>
@@ -479,7 +479,7 @@ ${report.rewritten_bullets.rewritten_bullets[idx] || 'N/A'}
                       <div className="flex flex-col items-center justify-center py-16 space-y-4">
                         <RefreshCw className="w-10 h-10 text-[var(--text-tertiary)] animate-spin" />
                         <div className="text-center space-y-1">
-                          <p className="font-semibold text-[var(--text-primary)]">Llama 3 is thinking...</p>
+                          <p className="font-semibold text-[var(--text-primary)]">AI is thinking...</p>
                           <p className="text-xs text-[var(--text-tertiary)]">This can take 10-30s on CPU compilation bounds.</p>
                         </div>
                       </div>
@@ -540,7 +540,7 @@ ${report.rewritten_bullets.rewritten_bullets[idx] || 'N/A'}
                   <div className="p-6 border-b border-black/[0.04]">
                     <h3 className="text-base font-bold text-[var(--text-primary)]">Bridge Missing Skill Gaps</h3>
                     <p className="text-xs text-[var(--text-secondary)] mt-1">
-                      Study curriculum suggested by local Llama 3.1 based on required parameters.
+                      Study curriculum suggested by CV Platform based on required parameters.
                     </p>
                   </div>
                   <div className="p-6">
@@ -640,7 +640,7 @@ ${report.rewritten_bullets.rewritten_bullets[idx] || 'N/A'}
                       <div className="flex justify-start animate-fadeIn">
                         <div className="bg-white/70 border border-black/[0.06] text-[var(--text-secondary)] rounded-2xl rounded-bl-sm p-4 text-xs flex items-center gap-2">
                           <RefreshCw className="w-3.5 h-3.5 animate-spin" />
-                          <span>Llama 3 is typing...</span>
+                          <span>AI is typing...</span>
                         </div>
                       </div>
                     )}
